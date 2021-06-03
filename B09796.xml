@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the raising two millions of money, after the rate of fourteen pounds per cent for one life, or leafe of forty years, which shall expire first</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09796</idno><idno type="EEBO-CITATION">64551605</idno>
+  <idno type="VID">184725</idno>
+  <idno type="EEBO-PROQUEST">2240867878</idno>
+  
+            <idno type="STC">Wing P3702A</idno>
+            <idno type="STC">ESTC R205730</idno>
+            <idno type="OCLC">64551605</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184725)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2870:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the raising two millions of money, after the rate of fourteen pounds per cent for one life, or leafe of forty years, which shall expire first</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Finance, Public --  Great Britain --  History --  1688-1815.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184725:1"/>
+            <head>
+               <hi>A PROPOSAL</hi> For the Raising <hi>Two Millions</hi> of Money, after the Rate of Fourteen Pounds <hi>per Cent.</hi> for One Life, or Lease of <hi>Forty Years,</hi> which shall expire first. Most Humbly offered to the Consideration of the <hi>Honourable House of Commons.</hi>
+            </head>
+            <p>THAT there be given out by His Majesty's Commissioners to any Persons, Natives, or Foreigners, Ten hundred Thousand Tickets at Forty Shillings a Ticket, which will raise <hi>Two Millions.</hi>
+            </p>
+            <p>That a FUND of Two Hundred and Eighty Thousand Pounds <hi>per Annum,</hi> for Forty Years, be vested in His Majesty, <hi>&amp;c.</hi> to pay the following Benefits; <hi>viz.</hi>
+               <table>
+                  <row>
+                     <cell>1 of</cell>
+                     <cell>1000 <hi>l.</hi> yearly</cell>
+                     <cell>1000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 of</cell>
+                     <cell>600 <hi>l.</hi> yearly</cell>
+                     <cell>600 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>4 each of</cell>
+                     <cell>500 <hi>l.</hi> yearly</cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5 each of</cell>
+                     <cell>400 <hi>l.</hi> yearly</cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>6 each of</cell>
+                     <cell>300 <hi>l.</hi> yearly</cell>
+                     <cell>1800 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>10 each of</cell>
+                     <cell>200 <hi>l.</hi> yearly</cell>
+                     <cell>2000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>50 each of</cell>
+                     <cell>100 <hi>l.</hi> yearly</cell>
+                     <cell>5000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>100 each of</cell>
+                     <cell>50 <hi>l.</hi> yearly</cell>
+                     <cell>5000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>200 each of</cell>
+                     <cell>40 <hi>l.</hi> yearly</cell>
+                     <cell>8000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>500 each of</cell>
+                     <cell>35 <hi>l.</hi> yearly</cell>
+                     <cell>17500 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>600 each of</cell>
+                     <cell>30 <hi>l.</hi> yearly</cell>
+                     <cell>18000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>700 each of</cell>
+                     <cell>25 <hi>l.</hi> yearly</cell>
+                     <cell>17500 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>800 each of</cell>
+                     <cell>20 <hi>l.</hi> yearly</cell>
+                     <cell>16000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>900 each of</cell>
+                     <cell>15 <hi>l.</hi> yearly</cell>
+                     <cell>13500 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1000 each of</cell>
+                     <cell>10 <hi>l.</hi> yearly</cell>
+                     <cell>10000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>2000 each of</cell>
+                     <cell>5 <hi>l.</hi> yearly</cell>
+                     <cell>10000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>25000 each of</cell>
+                     <cell>2 <hi>l.</hi> yearly</cell>
+                     <cell>50000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>100000 each of</cell>
+                     <cell>1 <hi>l.</hi> yearly</cell>
+                     <cell>100000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total">131877</cell>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">To the First Ticket drawn, besides the Be<g ref="char:EOLhyphen"/>nefit may come up with it, The Sum of</cell>
+                     <cell>50 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell cols="2">To the Last Ticket drawn</cell>
+                     <cell>50 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total"> </cell>
+                     <cell role="total">280000 <hi>l.</hi> Yearly.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The said Benefits to be held by Life, or Lease of Forty Years, which shall expire First.</p>
+            <p>A Benefitted Ticket of, or under 50 <hi>l. per Annum,</hi> to have but One Life nominated for it.</p>
+            <p>A Benefitted Ticket of, or above 100 <hi>l. per Annum</hi> (at the Request of the Owner) may be di<g ref="char:EOLhyphen"/>vided into as many parts as there are of Fifty Pounds included in it; and every Fifty Pounds may have a Life nominated for it.</p>
+            <p>As many Benefitted Tickets as the Persons concerned will, may be held by one and the same Life.</p>
+            <p>All Benefitted Tickets of, or above 10 <hi>l. per Annum,</hi> to be paid by Half-yearly; the rest by Yearly Payments.</p>
+            <p>The first Payment to be reckoned from <hi>Christmas,</hi> 1695.</p>
+            <p>The Lives to be nominated by the Persons concerned, or their Assigns, within <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> after the Drawing is ended.</p>
+            <p>The manner of giving out Tickets and Encouragement to Adventurers by way of Rebate, the Mixing and Drawing, might be according to the late Act; except that whereas it is therein directed, as many Blanks should be mix'd with the Prizes as would make the Prizes, and Blanks together equal in Number with the Tickets, there might be mix'd with these only about Twenty thousand Blanks.</p>
+            <p>That instead of the Inscription which the late Tickets bore, there be imprinted His Majesty's Cypher only on these: And the time given for taking out Tickets might be until the Twentieth of <hi>December,</hi> 1695.</p>
+            <p>The <hi>Fund</hi> might be, That every Person in <hi>England</hi> and <hi>Wales,</hi> above Sixteen Years of Age (ex<g ref="char:EOLhyphen"/>cept <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap>) pay Twelve-Pence Yearly: The Nobility Gentry, and Persons of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> Estate, Two Shillings each by the Year.</p>
+            <p>This way the 280000 <hi>l. per Annum</hi> would be so laid, that no particular Body of Men, nor the present Age should bear it.</p>
+            <p>It might be easily collected, and it is a Trifle for every particular Person to pay.</p>
+            <p>Tickets being given out at Forty Shillings a Ticket, a vast number of His Majesty's good Subjects may, and doubtless will, be Adventurers, that were not, nor could not be concerned either in the late <hi>Funds</hi> for Lives, or the <hi>Million Adventure;</hi> the one requiring a Hundred Pounds, and the other (be<g ref="char:EOLhyphen"/>ing 39 Blanks to a Prize) Four Hundred Pounds to have had an equal Chance for a Prize.</p>
+            <p>Dr. <hi>Chamberlayne</hi> in his <hi>Present State of</hi> England, last Edition,
+<table>
+                  <row>
+                     <cell>Computes the People at</cell>
+                     <cell>7055706</cell>
+                  </row>
+                  <row>
+                     <cell>Suppose them to be</cell>
+                     <cell>6600000</cell>
+                  </row>
+                  <row>
+                     <cell>Persons exempted</cell>
+                     <cell>2000000</cell>
+                  </row>
+                  <row>
+                     <cell>Remaining</cell>
+                     <cell>4600000</cell>
+                  </row>
+                  <row>
+                     <cell>Whereof
+<list>
+                           <item>3600000 at 1 <hi>s.</hi>
+                           </item>
+                           <item>1000000 at 2 <hi>s.</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>makes 280000 <hi>l.</hi> Yearly.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>Note,</hi> There is not Seven Blanks to a Prize in this Adventure.</p>
+            <pb facs="tcp:184725:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
